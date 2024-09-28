@@ -1,0 +1,18 @@
+#kaggle
+kaggle
+ipykernel
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and model building
+scikit-learn
+lightgbm
+
+# Deep learning (optional, if working with neural networks)
+torch
